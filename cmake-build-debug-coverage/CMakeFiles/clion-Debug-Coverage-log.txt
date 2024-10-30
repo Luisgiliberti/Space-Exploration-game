@@ -1,0 +1,13 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_CXX_FLAGS=-fcoverage-mapping -fprofile-instr-generate" "-DCMAKE_C_FLAGS=-fcoverage-mapping -fprofile-instr-generate" -G "CodeBlocks - Unix Makefiles" -S "/Users/luisgiliberti/Library/CloudStorage/OneDrive-mycit.ie/2nd year/2nd Semester/C Programming/Assigment 1/space_explorer" -B "/Users/luisgiliberti/Library/CloudStorage/OneDrive-mycit.ie/2nd year/2nd Semester/C Programming/Assigment 1/space_explorer/cmake-build-debug-coverage"
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/luisgiliberti/Library/CloudStorage/OneDrive-mycit.ie/2nd year/2nd Semester/C Programming/Assigment 1/space_explorer/cmake-build-debug-coverage
